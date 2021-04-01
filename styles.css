@@ -1,0 +1,57 @@
+body{
+  font-family: 'Montserrat';
+
+}
+
+p{
+  font-size: 30px;
+
+}
+img{
+  object-fit: cover;
+
+}
+
+ .Button{
+  text-decoration: none;
+  color: black;
+  float: right;
+  padding: 7px;
+  background: white;
+  border-radius: 5px;
+}
+.Button:hover{
+  background-color: #eac8af;
+  color: white;
+  transition: .7s ease;
+}
+
+
+.display-4{
+  font-size: 100px;
+  font-weight: 500;
+}
+.bio{
+  font-family: 'Montserrat';
+  font-weight: 400;
+
+}
+
+.container-top{
+  margin: auto;
+  text-align: center;
+}
+
+.images{
+  text-align: center;
+  display: inline-block;
+}
+.footer{
+  background-color: white;
+  color: black;
+  padding: 5px;
+  font-weight: 100;
+  margin: auto;
+  text-align: center;
+  font-size: 10px;
+}
